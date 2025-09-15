@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Font-Size</title>
+    <style>
+      #pixel {
+        font-size: 20px;
+      }
+
+      #point {
+        font-size: 20pt;
+      }
+
+      #em {
+        font-size: 1em;
+      }
+
+      #rem {
+        font-size: 1rem;
+      }
+
+      footer {
+        font-size: 12pt;
+      }
+
+      html {
+        font-size: x-small;
+      }
+      #a {
+        font-size: 50pt;
+      }
+      #b {
+        font-size: 50px;
+      }
+      #c {
+        font-size: 8px;
+      }
+      #d {
+        font-size: 2em;
+      }
+      #e {
+        font-size: 1rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p id="a">Fixed pt size</p>
+    <p id="b">Fixed px size</p>
+    <section id="c">
+      <p id="d">em size relative to sector</p>
+      <p id="e">rem size relatice to html (root)</p>
+    </section>
+    <hr />
+    <br />
+    <p id="pixel">1 Pixel is 1/96 of an Inch</p>
+    <p id="point">1 Point is 1/72 of an Inch</p>
+
+    <footer>
+      <p id="em">1em is 100% the size of the parent element</p>
+      <p id="rem">1rem is 100% the size of the root element</p>
+    </footer>
+  </body>
+</html>
