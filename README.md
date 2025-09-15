@@ -1,0 +1,106 @@
+# 🌐 Web Development Bootcamp – Angela Yu  
+
+This repository contains my complete progress and practice work from [Angela Yu’s Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).  
+It serves as a structured record of my daily learning journey, with exercises, mini-projects, and notes organized by topic.  
+
+---
+
+## 🎯 Goals of This Repository  
+
+- Build **strong foundations** in web development.  
+- Commit **daily practice work** to maintain coding discipline.  
+- Keep coursework **organized and professional** for long-term reference.  
+- Showcase **consistent activity** on GitHub.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend** → HTML5, CSS3, JavaScript (ES6+)  
+- **Tools** → Git, GitHub, VS Code  
+- **Other** → Responsive Design, Flexbox, Grid, Bootstrap  
+
+---
+
+## 📂 Repository Structure  
+
+```plaintext
+Web Development Bootcamp/
+│
+├── HTML/
+│   ├── Heading Element
+│   ├── Paragraph Element
+│   ├── Void Elements
+│   ├── Movie Ranking Project
+│   ├── List Elements
+│   ├── Nesting and Indentation
+│   ├── Anchor Elements
+│   ├── Image Elements
+│   ├── Birthday Invite Project
+│   ├── File Paths
+│   ├── Web Pages
+│   └── HTML Portfolio Project
+│
+├── CSS/
+│   ├── Adding CSS
+│   ├── CSS Selectors
+│   ├── Color Vocab Project
+│   ├── CSS Colors
+│   ├── Font Properties
+│   ├── CSS Box Models
+│   ├── Motivation Meme Project
+│   └── (Continuing Work in Progress)
+│
+└── Capstone Projects/
+    └── Capstone Project 1
+```  
+## 📈 Progress Tracking
+
+I am updating this repository regularly with new topics and exercises.  
+Commit history shows **daily learning progress** 📅.  
+
+| Day | Topic                         | Section   |
+|-----|-------------------------------|-----------|
+| 01  | Heading Element               | HTML      |
+| 02  | Paragraph Element             | HTML      |
+| 03  | Void Elements                 | HTML      |
+| 04  | Movie Ranking Project         | HTML      |
+| 05  | List Elements                 | HTML      |
+| 06  | Nesting and Indentation       | HTML      |
+| 07  | Anchor Elements               | HTML      |
+| 08  | Image Elements                | HTML      |
+| 09  | Birthday Invite Project       | HTML      |
+| 10  | File Paths                    | HTML      |
+| 11  | Web Pages                     | HTML      |
+| 12  | HTML Portfolio Project        | HTML      |
+| 13  | Capstone Project 1            | Projects  |
+| 14  | Adding CSS                    | CSS       |
+| 15  | CSS Selectors                 | CSS       |
+| 16  | Color Vocab Project           | CSS       |
+| 17  | CSS Colors                    | CSS       |
+| 18  | Font Properties               | CSS       |
+| 19  | CSS Box Models                | CSS       |
+| 20  | Motivation Meme Project       | CSS       |
+| …   | (Continuing Work in Progress) | CSS       |
+
+
+## 📌 Notes  
+
+This repository is for **course exercises and daily practice**.  
+
+- Capstone projects will also be stored here for reference.  
+- Larger **portfolio-ready projects** will live in **separate repositories** for better visibility.  
+
+---
+
+## 👤 Author  
+
+**Muhammad Faizan**  
+
+- 🌍 GitHub: [MuhammadFaizan-1](https://github.com/MuhammadFaizan-1)  
+- 💼 LinkedIn: *[www.linkedin.com/in/muhammad-faizan-992b86320]*  
+- ✉️ Email: *[muhammadfaizan20505@gmail.com]*  
+
+---
+
+✨ *Learning every day. Practicing every day. Building a future in web development.*  
