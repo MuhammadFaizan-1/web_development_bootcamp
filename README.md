@@ -49,7 +49,10 @@ Web Development Bootcamp/
 │   ├── Font Properties
 │   ├── CSS Box Models
 │   ├── Motivation Meme Project
-│   └── (Continuing Work in Progress)
+│   ├── CSS Cascade
+│   ├── Combining Selectors
+│   ├── CSS Positioning
+│   ├── CSS Flag Project
 │
 └── Capstone Projects/
     └── Capstone Project 1
@@ -81,7 +84,10 @@ Commit history shows **daily learning progress** 📅.
 | 18  | Font Properties               | CSS       |
 | 19  | CSS Box Models                | CSS       |
 | 20  | Motivation Meme Project       | CSS       |
-| …   | (Continuing Work in Progress) | CSS       |
+| 21  | CSS Cascade                   | CSS       |
+| 21  | Combining Selectors           | CSS       |
+| 21  | CSS Positioning               | CSS       |
+| 21  | CSS Flag Project              | CSS       |
 
 
 ## 📌 Notes  
