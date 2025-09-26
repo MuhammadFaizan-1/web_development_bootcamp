@@ -58,7 +58,12 @@ Web Development Bootcamp/
 │   ├── CSS Responsiveness
 │   ├── CSS Media quiery
 │   ├── CSS Module Project
-│ 
+│   ├── CSS Flexbox
+│   ├── CSS Flex Direction
+│   ├── CSS Flex Layout
+│   ├── CSS Flex sizing
+│   ├── CSS Module Project
+│   
 └── Capstone Projects/
     └── Capstone Project 1
 ```  
@@ -99,6 +104,11 @@ Commit history shows **daily learning progress** 📅.
 | 22  | CSS Resposiveness             | CSS       |
 | 22  | CSS Media quiery              | CSS       |
 | 22  | CSS Module Project            | CSS       |
+| 23  | Flexbox                       | CSS       |
+| 23  | Fkex Direction                | CSS       |
+| 23  | Flex Layout                   | CSS       |
+| 23  | Flex sizing                   | CSS       |
+| 22  | Flex Project                  | CSS       |
 
 
 ## 📌 Notes  
