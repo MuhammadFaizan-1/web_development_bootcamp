@@ -53,7 +53,12 @@ Web Development Bootcamp/
 │   ├── Combining Selectors
 │   ├── CSS Positioning
 │   ├── CSS Flag Project
-│
+│   ├── CSS Display
+│   ├── CSS Float
+│   ├── CSS Responsiveness
+│   ├── CSS Media quiery
+│   ├── CSS Module Project
+│ 
 └── Capstone Projects/
     └── Capstone Project 1
 ```  
@@ -88,6 +93,12 @@ Commit history shows **daily learning progress** 📅.
 | 21  | Combining Selectors           | CSS       |
 | 21  | CSS Positioning               | CSS       |
 | 21  | CSS Flag Project              | CSS       |
+| 22  | Motivation Meme Project       | CSS       |
+| 22  | CSS Display                   | CSS       |
+| 22  | CSS Float                     | CSS       |
+| 22  | CSS Resposiveness             | CSS       |
+| 22  | CSS Media quiery              | CSS       |
+| 22  | CSS Module Project            | CSS       |
 
 
 ## 📌 Notes  
