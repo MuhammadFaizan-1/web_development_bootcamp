@@ -1,0 +1,25 @@
+/*class selector*/
+.color-title {
+  font-weight: normal;
+}
+/*Element selector*/
+img {
+  width: 200px;
+  height: 200px;
+}
+/*ID selector*/
+#red {
+  color: red;
+}
+#blue {
+  color: blue;
+}
+#orange {
+  color: orange;
+}
+#green {
+  color: green;
+}
+#yellow {
+  color: yellow;
+}
